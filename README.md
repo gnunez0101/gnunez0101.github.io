@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -24,8 +23,8 @@ This challenge is a very simple page showing a single card with a QR code image.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gnunez0101/gnunez0101.github.io)
-- Live Site URL: [Add live site URL here](https://gnunez0101.github.io/)
+- Solution URL: [Find solution here](https://github.com/gnunez0101/gnunez0101.github.io)
+- Live Site URL: [Find live site here](https://gnunez0101.github.io/)
 
 ## My process
 
@@ -49,6 +48,6 @@ With this practice I've learned to write Markdown. This is my first time using i
 
 ## Author
 
-- Website - [Gonzalo Manuel Núñez](https://www.your-site.com)
+- LinkedIn - [Gonzalo Manuel Núñez](https://www.linkedin.com/in/gnunez0101)
 - Frontend Mentor - [@gnunez0101](https://www.frontendmentor.io/profile/gnunez0101)
 
